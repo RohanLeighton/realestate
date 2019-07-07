@@ -1,2 +1,2 @@
 # realestate
-housing data scraped from realestate.com.au
+housing data from Sydney suburbs scraped from realestate.com.au
